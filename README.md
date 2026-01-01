@@ -1,2 +1,2 @@
 # DSA-LEEtCode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+A curated collection of my accepted LeetCode solutions, automatically pushed to GitHub to maintain a continuous coding streak.
