@@ -27,9 +27,7 @@ public:
             }
             head=head->next;
         }
-        l_ptr->next=nullptr;
         s_ptr->next=large->next;
-
 
         return small->next;
     }
