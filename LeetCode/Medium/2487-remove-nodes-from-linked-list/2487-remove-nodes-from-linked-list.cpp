@@ -10,34 +10,18 @@
  */
 class Solution {
 public:
+
+    // Uaing Recurssion to avoid the new space and to return modified LL.
     ListNode* removeNodes(ListNode* head) {
-        stack<ListNode*>st;
-        ListNode* cur=head;
-        while(cur){
-            st.push(cur);
-            cur=cur->next;  
+        if(head==NULL || head->next==NULL){
+            return head;
+        }
+        ListNode* nextNode=removeNodes(head->next);
+        if(head->val < nextNode->val){
+            return nextNode;
         }
 
-        cur=st.top();
-        st.pop();
-
-        int maxNode=cur->val;
-
-        ListNode* resultHead=new ListNode(cur->val);
-        while(!st.empty()){
-            cur=st.top();
-            st.pop();
-            if(cur->val < maxNode){
-                continue;
-            }else{
-                ListNode* newNode = new ListNode(cur->val);
-                newNode->next=resultHead;
-                resultHead=newNode;
-                maxNode=cur->val;
-            }
-        }
-        
-        return resultHead;
-
+        head->next=nextNode;
+        return head;
     }
 }; 
