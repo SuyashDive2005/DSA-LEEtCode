@@ -6,6 +6,6 @@ public:
                 return nums[i];
             }
         }
-        return -1;
+        return nums[nums.size()-1];
     }
 };
