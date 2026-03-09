@@ -28,6 +28,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -42,4 +43,12 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
