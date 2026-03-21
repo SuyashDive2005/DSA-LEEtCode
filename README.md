@@ -32,6 +32,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0002-add-two-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
+| [0231-power-of-two](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## String
@@ -56,9 +57,14 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0231-power-of-two](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
