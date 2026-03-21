@@ -40,6 +40,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0022-generate-parentheses](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0344-reverse-string](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,8 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
