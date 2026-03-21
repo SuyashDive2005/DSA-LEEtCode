@@ -31,6 +31,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0367-valid-perfect-square](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 ## String
 | Problem Name | Difficulty |
