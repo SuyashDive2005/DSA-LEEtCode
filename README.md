@@ -36,6 +36,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0231-power-of-two](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0050-powx-n](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
