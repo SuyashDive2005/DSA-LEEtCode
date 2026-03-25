@@ -54,10 +54,12 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Memoization
