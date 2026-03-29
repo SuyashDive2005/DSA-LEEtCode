@@ -45,6 +45,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0022-generate-parentheses](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0344-reverse-string](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
