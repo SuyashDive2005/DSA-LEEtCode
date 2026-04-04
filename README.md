@@ -12,6 +12,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0078-subsets](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +96,8 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 <!---LeetCode Topics End-->
