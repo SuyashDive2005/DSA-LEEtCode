@@ -42,6 +42,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0367-valid-perfect-square](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
+| [3648-minimum-sensors-to-cover-grid](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3648-minimum-sensors-to-cover-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
