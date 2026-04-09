@@ -15,10 +15,7 @@ public:
         int front=max(mn_in,mx_in)+1;
         int back=n-min(mn_in,mx_in);
         int both = (min(mn_in, mx_in) + 1) + (n - max(mn_in, mx_in));
-        ans=min(front,back);
-        ans=min(ans,both);
-
-        return ans;
+        return min({front, back, both});
 
     }
 };
