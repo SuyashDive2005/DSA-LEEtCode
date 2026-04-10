@@ -14,6 +14,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [1128-number-of-equivalent-domino-pairs](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [1128-number-of-equivalent-domino-pairs](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
