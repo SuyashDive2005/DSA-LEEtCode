@@ -1,24 +1,33 @@
 class Solution {
 public:
-    vector<string> generateParenthesis(int n) {
-        vector<string> res;
-        dfs(0, 0, "", n, res);
-        return res;        
+    vector<string> res;
+    bool valid(string s){
+        int cnt = 0;
+        for(char &c : s){
+            if(c == '(') cnt++;
+            else cnt--;
+            if(cnt < 0) return false;
+        }
+        return cnt == 0;
     }
 
-private:
-    void dfs(int openP, int closeP, string s, int n, vector<string>& res) {
-        if (openP == closeP && openP + closeP == n * 2) {
-            res.push_back(s);
+    void solve(string& cur, int n) {
+        if (cur.length() == 2 * n) {
+            if (valid(cur)) {
+                res.push_back(cur);
+            }
             return;
         }
-
-        if (openP < n) {
-            dfs(openP + 1, closeP, s + "(", n, res);
-        }
-
-        if (closeP < openP) {
-            dfs(openP, closeP + 1, s + ")", n, res);
-        }
+        cur.push_back('(');
+        solve(cur, n);
+        cur.pop_back();
+        cur.push_back(')');
+        solve(cur, n);
+        cur.pop_back();
+    }
+    vector<string> generateParenthesis(int n) {
+        string cur = "";
+        solve(cur, n);
+        return res;
     }
 };
