@@ -16,6 +16,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1710-maximum-units-on-a-truck/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Hash Table
@@ -115,5 +116,6 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1710-maximum-units-on-a-truck/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 <!---LeetCode Topics End-->
