@@ -11,6 +11,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0001-two-sum](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0051-n-queens](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+| [0204-count-primes](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -46,6 +47,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0012-integer-to-roman](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
+| [0204-count-primes](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
@@ -118,4 +120,12 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [1710-maximum-units-on-a-truck](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1710-maximum-units-on-a-truck/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
