@@ -58,6 +58,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0022-generate-parentheses](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -66,6 +67,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0509-fibonacci-number](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -128,4 +130,8 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
