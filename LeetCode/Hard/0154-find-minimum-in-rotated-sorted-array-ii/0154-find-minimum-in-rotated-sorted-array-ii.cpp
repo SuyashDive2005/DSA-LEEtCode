@@ -13,6 +13,6 @@ public:
                 high--;
             }
         }
-        return nums[low];
+        return nums[high];
     }
 };
