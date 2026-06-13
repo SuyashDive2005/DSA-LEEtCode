@@ -23,6 +23,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +143,8 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3838-weighted-word-mapping](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 <!---LeetCode Topics End-->
