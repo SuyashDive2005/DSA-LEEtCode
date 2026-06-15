@@ -6,8 +6,6 @@ BEGIN
     ) t
     where rn=N
     limit 1
-
-    
   );
   if rn is null then
         return null;
