@@ -10,6 +10,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0051-n-queens](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -38,6 +39,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0367-valid-perfect-square](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
