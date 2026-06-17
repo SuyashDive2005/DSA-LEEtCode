@@ -24,6 +24,7 @@ public:
     vector<int> searchRange(vector<int>& nums, int target) {
         int left=findOcc(nums,true,target);
         int right=findOcc(nums,false,target);
-       return {left,right};
+        cout<<right-left+1;  // for counting the occurances using binary search
+        return {left,right};
     }
 };
