@@ -12,7 +12,6 @@ public:
             else if(nums[mid]>=nums[l]){
                 if(nums[l]<=target  && target<=nums[mid]){
                     h=mid-1;
-
                 }
                 else{
                     l=mid+1;
@@ -26,7 +25,6 @@ public:
                     h= mid-1;
                 }
             }
-
         }
         return -1;
     }
