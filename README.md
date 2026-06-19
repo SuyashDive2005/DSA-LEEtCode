@@ -19,6 +19,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0204-count-primes](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1710-maximum-units-on-a-truck/) | Easy |
@@ -49,6 +50,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0367-valid-perfect-square](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Counting
