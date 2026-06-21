@@ -17,6 +17,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0204-count-primes](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -48,6 +49,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0367-valid-perfect-square](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -86,6 +88,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -138,6 +141,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1710-maximum-units-on-a-truck/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -161,4 +165,8 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0177-nth-highest-salary/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
