@@ -18,16 +18,18 @@ public:
         sort(pos.begin(),pos.end());
         int low = 1;
         int high = pos.back();
+        int ans;
 
         while(low<=high){
             int mid = low + (high-low)/2;
 
             if(ispos(pos,m,mid)){
+                ans=mid;
                 low=mid+1;
             }else{
                 high= mid-1;
             }
         }
-        return high;
+        return ans;
     }
 };
