@@ -177,12 +177,19 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
