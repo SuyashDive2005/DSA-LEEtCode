@@ -14,16 +14,9 @@ public:
 
 
     int countNodes(TreeNode* root) {
-
-        int x,y;
-        
         if(!root){
             return 0;
         }
-        x=countNodes(root->left);
-        y=countNodes(root->right);
-
-        return x+y+1;
-        
+        return 1 + countNodes(root->left) + countNodes(root->right);
     }
 };
