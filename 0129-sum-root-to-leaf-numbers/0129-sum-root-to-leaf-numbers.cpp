@@ -12,7 +12,7 @@
  */
 class Solution {
 public:
-    void getpath(TreeNode* root,int &paths,int &p) {
+    void getpath(TreeNode* root,int &paths,int p) {
         if (!root)
             return;
 
