@@ -12,29 +12,24 @@
  */
 class Solution {
 public:
-    void getpath(TreeNode* root,int &paths,vector<int>&p) {
+    void getpath(TreeNode* root,int &paths,int &p) {
         if (!root)
             return;
 
-        p.push_back(root->val);
-        int spth=0;
+        p=p*10+root->val;
         if (!root->left && !root->right) {
-            for(int i=0;i<p.size();i++){
-                spth=spth*10+p[i];
-            }
-            paths+=spth;
+            paths+=p;
         }
         
         getpath(root->left, paths, p);
         getpath(root->right, paths, p);
-        p.pop_back();
+        p/=10;
     }
 
     int sumNumbers(TreeNode* root) {
-        vector<int>p;
+        int p=0;
         int paths=0;
         getpath(root, paths,p);
-
         return paths;
     }
 };
