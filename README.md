@@ -183,6 +183,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,4 +193,13 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
