@@ -19,6 +19,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0204-count-primes](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1128-number-of-equivalent-domino-pairs/) | Easy |
@@ -72,6 +73,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0231-power-of-two](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1922-count-good-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3648-minimum-sensors-to-cover-grid/) | Medium |
 ## String
@@ -134,6 +136,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1552-magnetic-force-between-two-balls/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1710-maximum-units-on-a-truck/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
