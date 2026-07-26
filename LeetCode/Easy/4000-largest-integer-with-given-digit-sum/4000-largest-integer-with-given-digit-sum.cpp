@@ -9,7 +9,6 @@ public:
             ans+=to_string(digit);
             s-=digit;
         }
-
         return stoi(ans);
     }
 };
