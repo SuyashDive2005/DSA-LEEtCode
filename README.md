@@ -21,6 +21,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0540-single-element-in-a-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -76,6 +77,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0367-valid-perfect-square](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3648-minimum-sensors-to-cover-grid/) | Medium |
@@ -99,6 +101,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0032-longest-valid-parentheses](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,4 +220,8 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
