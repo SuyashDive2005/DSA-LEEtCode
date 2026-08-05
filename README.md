@@ -202,6 +202,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0226-invert-binary-tree](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +214,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0226-invert-binary-tree](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3310-remove-methods-from-project/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +225,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3310-remove-methods-from-project/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
