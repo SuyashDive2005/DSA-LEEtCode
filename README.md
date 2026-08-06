@@ -82,6 +82,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [1406-stone-game-iii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1922-count-good-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1922-count-good-numbers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3648-minimum-sensors-to-cover-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -169,6 +170,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
