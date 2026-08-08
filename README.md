@@ -114,6 +114,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0022-generate-parentheses](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +207,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0094-binary-tree-inorder-traversal](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3310-remove-methods-from-project/) | Medium |
@@ -219,6 +221,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3310-remove-methods-from-project/) | Medium |
@@ -231,6 +234,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3310-remove-methods-from-project/) | Medium |
@@ -247,4 +251,8 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 <!---LeetCode Topics End-->
