@@ -32,6 +32,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -45,6 +46,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
@@ -152,6 +154,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
