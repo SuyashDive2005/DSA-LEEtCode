@@ -34,6 +34,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
@@ -145,6 +146,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0078-subsets](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
