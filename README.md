@@ -27,6 +27,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1406-stone-game-iii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1552-magnetic-force-between-two-balls/) | Medium |
+| [1701-average-waiting-time](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1701-average-waiting-time/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1710-maximum-units-on-a-truck/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -197,6 +198,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1701-average-waiting-time](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1701-average-waiting-time/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Database
 | Problem Name | Difficulty |
