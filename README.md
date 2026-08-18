@@ -20,6 +20,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0410-split-array-largest-sum](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0733-flood-fill](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -173,6 +174,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0733-flood-fill](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -221,6 +223,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [0094-binary-tree-inorder-traversal](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [0733-flood-fill](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
@@ -235,6 +238,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [0733-flood-fill](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
