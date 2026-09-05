@@ -41,6 +41,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [3731-find-missing-elements](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +213,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
+| [3904-smallest-stable-index-ii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
