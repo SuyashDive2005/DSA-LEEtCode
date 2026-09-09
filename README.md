@@ -96,6 +96,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3648-minimum-sensors-to-cover-grid](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3648-minimum-sensors-to-cover-grid/) | Medium |
+| [3871-count-commas-in-range-ii](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
