@@ -210,6 +210,7 @@ A curated collection of my accepted LeetCode solutions focused on mastering Data
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0177-nth-highest-salary/) | Medium |
+| [0178-rank-scores](https://github.com/SuyashDive2005/DSA-LEEtCode/tree/main/LeetCode/Medium/0178-rank-scores/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
