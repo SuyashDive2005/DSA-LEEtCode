@@ -7,13 +7,9 @@ public:
             if(nums[i]==0){
                 continue;
             }else{
-                nums[pos]=nums[i];
+                swap(nums[pos],nums[i]);
                 pos++;
             }
-        }
-
-        for(int i=pos;i<nums.size();i++){
-            nums[i]=0;
         }
     }
 };
