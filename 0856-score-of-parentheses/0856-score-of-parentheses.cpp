@@ -6,13 +6,18 @@ public:
 
         for(int i=0;i<s.length();i++){
             if(s[i]=='('){
-                st.push(s[i]);
-            }
-            if(s[i]==')' && st.top()=='('){
-                res++;
+                st.push(res);
+                res=0;
+            }else{
+                if(s[i-1]=='('){
+                    res=st.top()+1;
+                }else{
+                    res=st.top()+2*res;
+                }
+
                 st.pop();
-                
             }
+            
         }
         return res;
     }
