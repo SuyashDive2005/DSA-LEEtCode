@@ -16,9 +16,7 @@ var removeOuterParentheses = function(s) {
             if(depth>0){
                 res+=s[i];
             }
-        }
-        
+        }   
     }
-
     return res;
 };
